@@ -1,0 +1,218 @@
+{
+  "bundles": [
+    {
+      "name": "default",
+      "assets": [
+        {
+          "name": [
+            "audio/Fluffing-a-Duck.mp3"
+          ],
+          "srcs": [
+            "audio/Fluffing-a-Duck.mp3",
+            "audio/Fluffing-a-Duck.ogg"
+          ]
+        },
+        {
+          "name": [
+            "font/MinecraftTen.ttf"
+          ],
+          "srcs": [
+            "font/MinecraftTen.ttf"
+          ]
+        },
+        {
+          "name": [
+            "font/MisakiGothic.ttf"
+          ],
+          "srcs": [
+            "font/MisakiGothic.ttf"
+          ]
+        },
+        {
+          "name": [
+            "font/SourceSans3.ttf"
+          ],
+          "srcs": [
+            "font/SourceSans3.ttf"
+          ]
+        },
+        {
+          "name": [
+            "images/background.png"
+          ],
+          "srcs": [
+            "images/background.png"
+          ]
+        },
+        {
+          "name": [
+            "images/bunny.png"
+          ],
+          "srcs": [
+            "images/bunny.png"
+          ]
+        },
+        {
+          "name": [
+            "images/cat.png"
+          ],
+          "srcs": [
+            "images/cat.png"
+          ]
+        },
+        {
+          "name": [
+            "images/char1.png"
+          ],
+          "srcs": [
+            "images/char1.png"
+          ]
+        },
+        {
+          "name": [
+            "images/char2.png"
+          ],
+          "srcs": [
+            "images/char2.png"
+          ]
+        },
+        {
+          "name": [
+            "images/char3.png"
+          ],
+          "srcs": [
+            "images/char3.png"
+          ]
+        },
+        {
+          "name": [
+            "images/char4.png"
+          ],
+          "srcs": [
+            "images/char4.png"
+          ]
+        },
+        {
+          "name": [
+            "images/char5.png"
+          ],
+          "srcs": [
+            "images/char5.png"
+          ]
+        },
+        {
+          "name": [
+            "images/clouds.png"
+          ],
+          "srcs": [
+            "images/clouds.png"
+          ]
+        },
+        {
+          "name": [
+            "images/enemy.png"
+          ],
+          "srcs": [
+            "images/enemy.png"
+          ]
+        },
+        {
+          "name": [
+            "images/loading.png"
+          ],
+          "srcs": [
+            "images/loading.png"
+          ]
+        },
+        {
+          "name": [
+            "images/LoadingScreen.jpg"
+          ],
+          "srcs": [
+            "images/LoadingScreen.jpg"
+          ]
+        },
+        {
+          "name": [
+            "images/mouse.png"
+          ],
+          "srcs": [
+            "images/mouse.png"
+          ]
+        },
+        {
+          "name": [
+            "images/rt_object_04.png"
+          ],
+          "srcs": [
+            "images/rt_object_04.png"
+          ]
+        },
+        {
+          "name": [
+            "images/test-map.png"
+          ],
+          "srcs": [
+            "images/test-map.png"
+          ]
+        },
+        {
+          "name": [
+            "sprites/drags.json"
+          ],
+          "srcs": [
+            "sprites/drags.json"
+          ]
+        },
+        {
+          "name": [
+            "sprites/drags.png"
+          ],
+          "srcs": [
+            "sprites/drags.png"
+          ]
+        },
+        {
+          "name": [
+            "sprites/map2.json"
+          ],
+          "srcs": [
+            "sprites/map2.json"
+          ]
+        },
+        {
+          "name": [
+            "sprites/map2.png"
+          ],
+          "srcs": [
+            "sprites/map2.png"
+          ]
+        },
+        {
+          "name": [
+            "sprites/player.json"
+          ],
+          "srcs": [
+            "sprites/player.json"
+          ]
+        },
+        {
+          "name": [
+            "sprites/player.png"
+          ],
+          "srcs": [
+            "sprites/player.png"
+          ]
+        },
+        {
+          "name": [
+            "sprites/sprite_animation_master.json"
+          ],
+          "srcs": [
+            "sprites/sprite_animation_master.json"
+          ]
+        }
+      ]
+    }
+  ]
+}
