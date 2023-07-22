@@ -14,6 +14,14 @@
         },
         {
           "name": [
+            "font/flappy-font.ttf"
+          ],
+          "srcs": [
+            "font/flappy-font.ttf"
+          ]
+        },
+        {
+          "name": [
             "font/MinecraftTen.ttf"
           ],
           "srcs": [
