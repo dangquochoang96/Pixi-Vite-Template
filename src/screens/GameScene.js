@@ -15,8 +15,6 @@ export class GameScene extends Scene {
         this.cat.y = GameConfig.Screen.Height / 2;
         this.addChild(this.cat);
 
-        Ticker.shared.add(this.update, this);
-
         // See how these chains all together
         new Tween(this.cat.scale)
             .to({ x: 0.5, y: 0.5 }, 1000)

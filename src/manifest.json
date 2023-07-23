@@ -5,6 +5,15 @@
       "assets": [
         {
           "name": [
+            "audio/die.wav"
+          ],
+          "srcs": [
+            "audio/die.mp3",
+            "audio/die.ogg"
+          ]
+        },
+        {
+          "name": [
             "audio/Fluffing-a-Duck.mp3"
           ],
           "srcs": [
@@ -14,6 +23,41 @@
         },
         {
           "name": [
+            "audio/hit.wav"
+          ],
+          "srcs": [
+            "audio/hit.mp3",
+            "audio/hit.ogg"
+          ]
+        },
+        {
+          "name": [
+            "audio/point.wav"
+          ],
+          "srcs": [
+            "audio/point.mp3",
+            "audio/point.ogg"
+          ]
+        },
+        {
+          "name": [
+            "audio/wing.wav"
+          ],
+          "srcs": [
+            "audio/wing.mp3",
+            "audio/wing.ogg"
+          ]
+        },
+        {
+          "name": [
+            "favicon.ico"
+          ],
+          "srcs": [
+            "favicon.ico"
+          ]
+        },
+        {
+          "name": [
             "font/flappy-font.ttf"
           ],
           "srcs": [
@@ -46,10 +90,50 @@
         },
         {
           "name": [
+            "images/background-day.png"
+          ],
+          "srcs": [
+            "images/background-day.png"
+          ]
+        },
+        {
+          "name": [
             "images/background.png"
           ],
           "srcs": [
             "images/background.png"
+          ]
+        },
+        {
+          "name": [
+            "images/bg.png"
+          ],
+          "srcs": [
+            "images/bg.png"
+          ]
+        },
+        {
+          "name": [
+            "images/bird-downflap.png"
+          ],
+          "srcs": [
+            "images/bird-downflap.png"
+          ]
+        },
+        {
+          "name": [
+            "images/bird-midflap.png"
+          ],
+          "srcs": [
+            "images/bird-midflap.png"
+          ]
+        },
+        {
+          "name": [
+            "images/bird-upflap.png"
+          ],
+          "srcs": [
+            "images/bird-upflap.png"
           ]
         },
         {
@@ -126,6 +210,54 @@
         },
         {
           "name": [
+            "images/frame-1.png"
+          ],
+          "srcs": [
+            "images/frame-1.png"
+          ]
+        },
+        {
+          "name": [
+            "images/frame-2.png"
+          ],
+          "srcs": [
+            "images/frame-2.png"
+          ]
+        },
+        {
+          "name": [
+            "images/frame-3.png"
+          ],
+          "srcs": [
+            "images/frame-3.png"
+          ]
+        },
+        {
+          "name": [
+            "images/frame-4.png"
+          ],
+          "srcs": [
+            "images/frame-4.png"
+          ]
+        },
+        {
+          "name": [
+            "images/gameover.png"
+          ],
+          "srcs": [
+            "images/gameover.png"
+          ]
+        },
+        {
+          "name": [
+            "images/ground.png"
+          ],
+          "srcs": [
+            "images/ground.png"
+          ]
+        },
+        {
+          "name": [
             "images/loading.png"
           ],
           "srcs": [
@@ -142,6 +274,14 @@
         },
         {
           "name": [
+            "images/message.png"
+          ],
+          "srcs": [
+            "images/message.png"
+          ]
+        },
+        {
+          "name": [
             "images/mouse.png"
           ],
           "srcs": [
@@ -150,10 +290,26 @@
         },
         {
           "name": [
+            "images/pipe.png"
+          ],
+          "srcs": [
+            "images/pipe.png"
+          ]
+        },
+        {
+          "name": [
             "images/rt_object_04.png"
           ],
           "srcs": [
             "images/rt_object_04.png"
+          ]
+        },
+        {
+          "name": [
+            "images/start.png"
+          ],
+          "srcs": [
+            "images/start.png"
           ]
         },
         {
